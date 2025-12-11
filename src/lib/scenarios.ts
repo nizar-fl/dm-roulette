@@ -1,11 +1,11 @@
 // Scenario placeholders - replace these texts with your actual scenarios
 export const SCENARIOS: Record<number, string> = {
-    1: "Scenario 1 text placeholder",
-    2: "Scenario 2 text placeholder",
-    3: "Scenario 3 text placeholder",
-    4: "Scenario 4 text placeholder",
-    5: "Scenario 5 text placeholder",
-    6: "Scenario 6 text placeholder",
+    1: "Are you ignoring me or practicing for when u're famous",
+    2: "I know where you live , look in your closet",
+    3: "hey i am a nigerian prince and i need your help give me 100$ and i will repay your kindness when i am free",
+    4: "hey i kinda need some money",
+    5: "hey, i know this is wierd but we have to talk",
+    6: "i'm pregnant",
 };
 
 export const getScenarioText = (scenarioId: number): string => {
